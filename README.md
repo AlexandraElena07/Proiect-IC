@@ -7,8 +7,6 @@
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Există și rolul de admin care poate să editeze/adauge/șteargă evenimente, să vizualizeze cererile de voluntariat sau să vadă mesajele trimise de utilizatori.
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;Surse: 
 How to get started in React Native - Your First App! (Android & iOS)- https://www.youtube.com/watch?v=YysKbNk1tj0&ab_channel=Indently
